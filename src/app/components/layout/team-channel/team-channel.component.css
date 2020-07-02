@@ -1,0 +1,146 @@
+
+section{
+    overflow:hidden;
+    background-color:rgba(246,246,246,1)
+}
+.cam{
+    margin:0 30px;
+    color:#2a71ba;
+}
+.mobile{
+    color:#2a71ba
+}
+.username,.details{
+    color:#2a71ba;
+}
+[type="search"]{
+    border: 1px solid white;
+    /* background-color: white; */
+    border-radius: 20px;
+}
+
+.text{
+    margin:0 15px;
+}
+.text [type="text"],.files [type="text"]{
+    border:1px solid #d6e2f1;
+    width:95%;
+    margin-left: 10px;
+    padding: 10px;
+}
+.close{
+    margin-top: -55px;
+    margin-right: 17px;
+    background-color: #407cc0;
+    color: white;
+    padding-bottom: 5px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border: 1px solid #407cc0;
+    border-radius: 7px;
+}
+.button{
+    border: 1px solid #407cc0;
+    background-color: #407cc0;
+    color: white;
+    float: right!important;
+    margin: 23px 30px;
+    padding: 9px 40px;
+    border-radius: 12px;
+}
+
+.users{
+    background-color: white;
+    border-radius: 10px;
+    padding:10px;position:fixed;
+    width:27%;
+    height: 100vh;
+    margin-top: 51px;
+}
+.modal-title{
+    padding:25px 10px;
+}
+
+
+
+.nav-links{
+    background-color: white; 
+    position: fixed;
+}
+.main{
+    margin-left: 230px;
+}
+.help p{
+    background-color: #2a71ba;
+    color:white;
+    padding:9px 21px;
+    border-radius: 10px;
+}
+.msg{
+    border:1px solid #407cc0;
+    padding:20px 10px;
+    border-radius: 20px;
+}
+.msg [type="text"]{
+    background-color: rgba(246,246,246,1);
+}
+[type="text"]{
+    border:none;
+    outline:none;
+    border-radius: 10px;
+}
+.icons{
+    float:right;
+}
+.smile,.video,.camera,.attach{
+    margin-left: 50px;
+    color:#407cc0;
+    font-size: 20px;
+}
+.upload{
+    border: 1px solid #407cc0;
+    background-color: #407cc0;
+    color: white;
+    float: right!important;
+    margin: 2px -175px;
+    padding: 9px 40px;
+    border-radius: 12px;
+
+}
+.files{
+    margin:24px 15px;
+}
+figure{
+    background-color: gray!important;
+    margin: 10px 38%;
+    padding:20px;
+}
+figure img{
+    margin: 0 24%;
+}
+#modal-content{
+    margin-top:289px;
+    margin-left: -247px;
+    width: 51%;
+    background-color: rgba(246,246,246,1);
+    border-radius: 10px;
+}
+ul li {
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    
+}
+.create{
+    border: 1px solid #407cc0;
+    background-color: #407cc0;
+    color: white;
+    float: right!important;
+    margin: 19px 24px;
+    padding: 9px 40px;
+    border-radius: 12px;
+}
+@media (min-width:768px) and (max-width:1024px){
+    
+}
